@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Raisa IT\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Raisa IT\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Raisa IT\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Cube Surfer Tutorial.-2027951602.00" t="ExcludeRecursive" />
+    <e p="E:\Projects\Tutorials\Cube Surfer Tutorial" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Project" t="Include">
+          <e p="Art" t="Include">
+            <e p="Shaders" t="Include">
+              <e p="Toon" t="Include">
+                <e p="Toon.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Helper" t="Include">
+              <e p="LockCameraX.cs" t="Include" />
+              <e p="LockCameraY.cs" t="Include" />
+            </e>
+            <e p="Player" t="Include">
+              <e p="PlayerMover.cs" t="Include" />
+              <e p="PlayerSensor.cs" t="Include" />
+              <e p="PlayerStack.cs" t="Include" />
+              <e p="Stackable.cs" t="Include" />
+              <e p="StackableSensor.cs" t="Include" />
+              <e p="SwerveInputSystem.cs" t="Include" />
+              <e p="SwerveMovement.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Cube Surfer Tutorial.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
